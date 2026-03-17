@@ -1,5 +1,5 @@
 # Olá, eu sou a Isabelly
-**Estudante de Desenvolvimento de Sistemas | Focada em Python, HTML e CSS | 
+**Estudante de Desenvolvimento de Sistemas | Focada em Python | 
 Preparando-se para o mercado de tecnologia**  
 
 **Sobre mim**   
